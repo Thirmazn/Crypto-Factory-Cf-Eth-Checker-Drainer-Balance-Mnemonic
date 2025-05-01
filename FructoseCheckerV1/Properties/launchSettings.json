@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Only Debank": {
+      "commandName": "Project",
+      "commandLineArgs": "--onlydebank"
+    },
+    "Standart": {
+      "commandName": "Project"
+    }
+  }
+}
